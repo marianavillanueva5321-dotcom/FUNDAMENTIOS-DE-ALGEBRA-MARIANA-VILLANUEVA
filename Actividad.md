@@ -68,6 +68,7 @@
 **66)** $3(\cos 180^\circ + i \sin 180^\circ)$ <br>
 
 **Obtén TODAS las raices de los siguientes complejos**
+
 **67)** 2 raíces cuadradas de $4(\cos 30^\circ + i \sin 30^\circ)$ <br>
 **68)** 2 raíces cuadradas de $3(\cos 90^\circ + i \sin 90^\circ)$ <br>
 **69)** 3 raíces cúbicas de $-4\sqrt{2} + 4i\sqrt{2}$ <br>
