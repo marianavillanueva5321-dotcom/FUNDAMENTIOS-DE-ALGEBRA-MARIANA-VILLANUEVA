@@ -394,6 +394,34 @@ Para $k = 4$: <br>
 $\theta = \frac{270^\circ + 360^\circ(4)}{5} = \frac{1710^\circ}{5} = 342^\circ$ <br>
 $w_4 = 2(\cos 342^\circ + i \sin 342^\circ)$
 
+**72)** 6 raíces de 729 <br>
+$n = 6$ <br>
+$r = \sqrt[6]{729} = 3$ <br>
+$\theta = 0^\circ$ <br><br>
+
+Para $k = 0$: <br>
+$\theta = \frac{0^\circ + 360^\circ(0)}{6} = \frac{0^\circ}{6} = 0^\circ$ <br>
+$w_0 = 3(\cos 0^\circ + i \sin 0^\circ)$ <br><br>
+
+Para $k = 1$: <br>
+$\theta = \frac{0^\circ + 360^\circ(1)}{6} = \frac{360^\circ}{6} = 60^\circ$ <br>
+$w_1 = 3(\cos 60^\circ + i \sin 60^\circ)$ <br><br>
+
+Para $k = 2$: <br>
+$\theta = \frac{0^\circ + 360^\circ(2)}{6} = \frac{720^\circ}{6} = 120^\circ$ <br>
+$w_2 = 3(\cos 120^\circ + i \sin 120^\circ)$ <br><br>
+
+Para $k = 3$: <br>
+$\theta = \frac{0^\circ + 360^\circ(3)}{6} = \frac{1080^\circ}{6} = 180^\circ$ <br>
+$w_3 = 3(\cos 180^\circ + i \sin 180^\circ)$ <br><br>
+
+Para $k = 4$: <br>
+$\theta = \frac{0^\circ + 360^\circ(4)}{6} = \frac{1440^\circ}{6} = 240^\circ$ <br>
+$w_4 = 3(\cos 240^\circ + i \sin 240^\circ)$ <br><br>
+
+Para $k = 5$: <br>
+$\theta = \frac{0^\circ + 360^\circ(5)}{6} = \frac{1800^\circ}{6} = 300^\circ$ <br>
+$w_5 = 3(\cos 300^\circ + i \sin 300^\circ)$
 
 
 
