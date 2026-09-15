@@ -273,29 +273,125 @@ $= i^3 = -i$
 **Convierte los siguientes números complejos a su forma polar**
 
 **55)** $6 - 8i$ <br>
-**56)** $5\sqrt{2} + 5\sqrt{2} \cdot i$ <br>
-**57)** $2 - 2\sqrt{3} \cdot i$ <br>
-**58)** $\frac{3\sqrt{3}}{2} - \frac{3i}{2}$ <br>
-**59)** $-2$ <br>
+$r = \sqrt{(6)^2 + (-8)^2} = \sqrt{100} = 10$ <br>
+$\theta = \tan^{-1}\left(\frac{-8}{6}\right) = -53.13^\circ + 360^\circ = 306.87^\circ$ <br>
+$z = 10(\cos 306.87^\circ + i \sin 306.87^\circ)$ <br><br>
+
+**56)** $5\sqrt{2} + 5\sqrt{2}i$ <br>
+$r = \sqrt{(5\sqrt{2})^2 + (5\sqrt{2})^2} = \sqrt{50 + 50} = \sqrt{100} = 10$ <br>
+$\theta = \tan^{-1}\left(\frac{5\sqrt{2}}{5\sqrt{2}}\right) = \tan^{-1}(1) = 45^\circ$ <br>
+$z = 10(\cos 45^\circ + i \sin 45^\circ)$ <br><br>
+
+**57)** $2 - 2\sqrt{3}i$ <br>
+$r = \sqrt{(2)^2 + (-2\sqrt{3})^2} = \sqrt{4 + 12} = \sqrt{16} = 4$ <br>
+$\theta = \tan^{-1}\left(\frac{-2\sqrt{3}}{2}\right) = -60^\circ + 360^\circ = 300^\circ$ <br>
+$z = 4(\cos 300^\circ + i \sin 300^\circ)$ <br><br>
+
+**58)** $\frac{3\sqrt{3}}{2} - \frac{3}{2}i$ <br>
+$r = \sqrt{\left(\frac{3\sqrt{3}}{2}\right)^2 + \left(-\frac{3}{2}\right)^2} = \sqrt{\frac{27}{4} + \frac{9}{4}} = \sqrt{9} = 3$ <br>
+$\theta = \tan^{-1}\left(\frac{-3/2}{\frac{3\sqrt{3}}{2}}\right) = -30^\circ + 360^\circ = 330^\circ$ <br>
+$z = 3(\cos 330^\circ + i \sin 330^\circ)$ <br><br>
+
+**59)** $-2i$ <br>
+$r = \sqrt{0^2 + (-2)^2} = \sqrt{4} = 2$ <br>
+$\theta = 270^\circ$ <br>
+$z = 2(\cos 270^\circ + i \sin 270^\circ)$
+
 **60)** $-7i$ <br>
+$r = \sqrt{0^2 + (-7)^2} = \sqrt{49} = 7$ <br>
+$\theta = 270^\circ$ <br>
+$z = 7(\cos 270^\circ + i \sin 270^\circ)$
 
 **Convierte los números complejos de su forma polar a su forma rectangular**
 
 **61)** $\cos 30^\circ + i \sin 30^\circ$ <br>
+$a = 1 \cos 30^\circ = \frac{\sqrt{3}}{2}$ <br>
+
+$b = 1 \sin 30^\circ = \frac{1}{2}$ <br>
+
+$z = \frac{\sqrt{3}}{2} + \frac{1}{2}i$ <br><br>
+
 **62)** $2(\cos 60^\circ + i \sin 60^\circ)$ <br>
+$a = 2 \cos 60^\circ = 1$ <br>
+$b = 2 \sin 60^\circ = \sqrt{3}$ <br>
+$z = 1 + \sqrt{3}i$ <br><br>
+
 **63)** $1.5(\cos 90^\circ + i \sin 90^\circ)$ <br>
+$a = 1.5 \cos 90^\circ = 0$ <br>
+$b = 1.5 \sin 90^\circ = \frac{3}{2}$ <br>
+
+$z = \frac{3}{2}i$ <br><br>
+
 **64)** $2.5(\cos 120^\circ + i \sin 120^\circ)$ <br>
+$a = 2.5 \cos 120^\circ = -\frac{5}{4}$ <br>
+
+$b = 2.5 \sin 120^\circ = \frac{5\sqrt{3}}{4}$ <br>
+
+$z = -\frac{5}{4} + \frac{5\sqrt{3}}{4}i$ <br><br>
+
 **65)** $4(\cos 135^\circ + i \sin 135^\circ)$ <br>
+$a = 4 \cos 135^\circ = -2\sqrt{2}$ <br>
+$b = 4 \sin 135^\circ = 2\sqrt{2}$ <br>
+$z = -2\sqrt{2} + 2\sqrt{2}i$ <br><br>
+
 **66)** $3(\cos 180^\circ + i \sin 180^\circ)$ <br>
+$a = 3 \cos 180^\circ = -3$ <br>
+$b = 3 \sin 180^\circ = 0$ <br>
+$z = -3$
 
 **Obtén TODAS las raices de los siguientes complejos**
 
 **67)** 2 raíces cuadradas de $4(\cos 30^\circ + i \sin 30^\circ)$ <br>
+$r = \sqrt{4} = 2$, $n = 2$ <br><br>
+Para $k = 0$: <br>
+$\theta_1 = \frac{30^\circ + 360^\circ(0)}{2} = \frac{30^\circ}{2} = 15^\circ$ <br>
+$z_1 = 2(\cos 15^\circ + i \sin 15^\circ)$ <br><br>
+Para $k = 1$: <br>
+$\theta_2 = \frac{30^\circ + 360^\circ(1)}{2} = \frac{390^\circ}{2} = 195^\circ$ <br>
+$z_2 = 2(\cos 195^\circ + i \sin 195^\circ)$ <br><br>
+
 **68)** 2 raíces cuadradas de $3(\cos 90^\circ + i \sin 90^\circ)$ <br>
+$r = \sqrt{3}$, $n = 2$ <br><br>
+Para $k = 0$: <br>
+$\theta_1 = \frac{90^\circ + 360^\circ(0)}{2} = \frac{90^\circ}{2} = 45^\circ$ <br>
+$z_1 = \sqrt{3}(\cos 45^\circ + i \sin 45^\circ)$ <br><br>
+Para $k = 1$: <br>
+$\theta_2 = \frac{90^\circ + 360^\circ(1)}{2} = \frac{450^\circ}{2} = 225^\circ$ <br>
+$z_2 = \sqrt{3}(\cos 225^\circ + i \sin 225^\circ)$ <br><br>
+
 **69)** 3 raíces cúbicas de $-4\sqrt{2} + 4i\sqrt{2}$ <br>
-**70)** 3 raíces cúbicas de $-\frac{27}{8}$ <br>
+$n = 3$, $k = 0, 1, 2$ <br>
+$r = \sqrt{(-4\sqrt{2})^2 + (4\sqrt{2})^2} = \sqrt{32 + 32} = \sqrt{64} = 8 \implies \sqrt[3]{8} = 2$ <br>
+$\theta = 180^\circ - \tan^{-1}(1) = 180^\circ - 45^\circ = 135^\circ$ <br><br>
+Para $k = 0$: <br>
+$\theta = \frac{135^\circ + 360^\circ(0)}{3} = \frac{135^\circ}{3} = 45^\circ$ <br>
+$w_0 = 2(\cos 45^\circ + i \sin 45^\circ)$ <br><br>
+Para $k = 1$: <br>
+$\theta = \frac{135^\circ + 360^\circ(1)}{3} = \frac{495^\circ}{3} = 165^\circ$ <br>
+$w_1 = 2(\cos 165^\circ + i \sin 165^\circ)$ <br><br>
+Para $k = 2$: <br>
+$\theta = \frac{135^\circ + 360^\circ(2)}{3} = \frac{855^\circ}{3} = 285^\circ$ <br>
+$w_2 = 2(\cos 285^\circ + i \sin 285^\circ)$ <br><br>
+
 **71)** 5 raíces de $-32i$ <br>
-**72)** 6 raíces de $729$ <br>
+$n = 5$ <br>
+$r = \sqrt[5]{32} = 2$ <br>
+$\theta = 270^\circ$ <br><br>
+Para $k = 0$: <br>
+$\theta = \frac{270^\circ + 360^\circ(0)}{5} = \frac{270^\circ}{5} = 54^\circ$ <br>
+$w_0 = 2(\cos 54^\circ + i \sin 54^\circ)$ <br><br>
+Para $k = 1$: <br>
+$\theta = \frac{270^\circ + 360^\circ(1)}{5} = \frac{630^\circ}{5} = 126^\circ$ <br>
+$w_1 = 2(\cos 126^\circ + i \sin 126^\circ)$ <br><br>
+Para $k = 2$: <br>
+$\theta = \frac{270^\circ + 360^\circ(2)}{5} = \frac{990^\circ}{5} = 198^\circ$ <br>
+$w_2 = 2(\cos 198^\circ + i \sin 198^\circ)$ <br><br>
+Para $k = 3$: <br>
+$\theta = \frac{270^\circ + 360^\circ(3)}{5} = \frac{1350^\circ}{5} = 270^\circ$ <br>
+$w_3 = 2(\cos 270^\circ + i \sin 270^\circ)$ <br><br>
+Para $k = 4$: <br>
+$\theta = \frac{270^\circ + 360^\circ(4)}{5} = \frac{1710^\circ}{5} = 342^\circ$ <br>
+$w_4 = 2(\cos 342^\circ + i \sin 342^\circ)$
 
 
 
