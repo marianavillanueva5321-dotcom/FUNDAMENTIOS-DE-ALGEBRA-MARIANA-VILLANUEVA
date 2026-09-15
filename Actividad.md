@@ -32,20 +32,21 @@
 = -3 - i
 
 **27)** (7 - 8i) - (3i) - 7 <br>
-= 7 - 4i - 3i '7 <br>
-= 11
+= 7 - 8i - 3i - 7 <br>
+=(7-7) + (-8i-3i) <br>
+= -11i
 
 **28)** (1 + 5i) + (-8 - 5i) + 3 <br>
 = 1 +5i - 8 -5i + 3 <br>
 = -4
 
 **29)** -8 - (3 - 5i) + (4 + 8i) <br>
-= -8 - 3 +5i + 4 +8i <br>
-= -7 -13i
+= -8 - 3 + 5i + 4 + 8i <br>
+= -7 + 13i
 
 **30)** (-4 + 2i) + (3i) + (-4 - 7i) <br>
-= 2 - 4i - 5 + 3i <br>
-= -3 - i
+= (-4 -4) + (2i + 31 - 7i) <br>
+= -8 - 2i
 
 **31)** (2i)(-4i) <br>
 = $-8i^{2}$ <br>
@@ -151,9 +152,9 @@ $= \frac{-25 + 2i}{37} = -0.68 + 0.05i$ <br>
 = (-8 - 4i) x (1 - i) <br>
 <img width="80" height="67" alt="image" src="https://github.com/user-attachments/assets/943f7a5c-35cd-4383-a9af-f0705e29cb81" /> <br>
 
-$= {-8 + 12i + 4i^2}$ <br>
+$= {-8 + 4i + 4i^2}$ <br>
 = -8 + 12i - 4 <br>
-= -4 + 12i <br>
+= -12 + 4i <br>
 = (1 + i) x (1 - i) <br>
 <img width="94" height="59" alt="image" src="https://github.com/user-attachments/assets/f12b55cc-0b52-42bf-a81e-1794c6418dc5" /> <br>
 
@@ -161,9 +162,9 @@ $= {1 - i^2}$ <br>
 = 1 + 1 <br>
 = 2 <br>
 
-= $\frac{-4 + 12i}{2}$ <br>
+= $\frac{-12 + 4i}{2}$ <br>
 
-= -2 + 6i <br>
+= -6 + 2i <br>
 
 **41)** $\frac{-10+8i}{6+i}$ x $\frac{6 - i}{6 - i}$ <br>
 
@@ -261,7 +262,7 @@ r=3 <br>
 $= i^3 = -i$ <br><br>
 
 **53)** $i^{256}$ <br>
-$= \frac{256}{4}$ = 69 <br>
+$= \frac{256}{4}$ = 64 <br>
 r=0 <br> 
 $=i^0 = 1$ <br><br>
 
